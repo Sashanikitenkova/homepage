@@ -22,6 +22,11 @@ body {
     max-width: 900px;
 }
 
+.f {
+    display: flex;
+}
+
+
 .fh {
     display: flex;
     flex-direction: row;
@@ -261,3 +266,5 @@ body {
 .additional-info__languages-item {
     color: var(--secondary-text-color);
 }
+
+
